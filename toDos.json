@@ -1,0 +1,17 @@
+[
+    {
+       "name":"pyae phyo thant",
+       "job":"web developer",
+       "salary":"$100000"
+    },
+    {
+       "name":"swe swe thant",
+       "job":"business woman",
+       "incomeByWeek":"$500000"
+    },
+    {
+       "name":"Family",
+       "job":"own business",
+       "income":"$100000K"
+    }
+]
